@@ -10,6 +10,8 @@ number of reviews for the 10% cheapest products (the bottom decile), the next ei
 top 10% most expensive products (the top decile). Plot the numbers against the price deciles. The plot 
 shall use dots but no lines. The plot shall have the grid and the axes labels, but no legend. The title 
 and the X axis ticks are optional. Save the figure as a PNG file with the resolution of 150dpi.
+Write a paragraph that explains your observations from the graph. In particular, explain what could be 
+two possible reasons for the observed behavior
 """
 
 import pandas as pd
