@@ -11,6 +11,7 @@ top 10% most expensive products (the top decile). Plot the numbers against the p
 shall use dots but no lines. The plot shall have the grid and the axes labels, but no legend. The title 
 and the X axis ticks are optional. Save the figure as a PNG file with the resolution of 150dpi.
 """
+
 import pandas as pd
 from matplotlib import pyplot as plt
 
