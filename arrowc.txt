@@ -1,0 +1,11 @@
+character,sex,actor
+Oilver,male,Stephen Amell
+Laurel,female,Katie Cassidy
+Diggle,male,David Ramsey
+Quentin,male,Paul Blackthorne
+Thea,female,Willa Holland
+Rene,male,Rick Gonzalez
+Dinah,female,Juliana Harkavy
+Felicity,female,Emily Bett Rickards
+Roy,male,Colton Haynes
+Sara,female,Caity Lotz
