@@ -1,0 +1,19 @@
+character 1,character 2,relationship
+Oliver,Diggle,Friends
+Oliver,Laurel,Ex-Couple
+Oliver,Felicty,Couple
+Quentin,Laurel,Father-Daughter
+Oliver,Thea,Siblings
+Dinah,Rene,Friends
+Oliver,Dinah,Friends
+Oliver,Rene,Friends
+Rene,Diggle,Friends
+Roy,Thea,Couple
+Sara,Oliver,Ex-Couple
+Sara,Quentin,Father-Daughter
+Thea,Roy,Couple
+Laurel,Sara,Siblings
+Oliver,Roy,Friends
+Laurel,Sara,Canaries
+Laurel,Dinah,Canaries
+Sara,Dinah,Canaries
